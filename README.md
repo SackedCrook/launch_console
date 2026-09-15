@@ -11,3 +11,5 @@ python launch_console.py
 ```
 
 Available commands are `help`, `hello`, `quit`, and `exit`.
+## Day 1 of taking Elite 101 classes
+Hello this is the start of my journey in Elite 101 classes
